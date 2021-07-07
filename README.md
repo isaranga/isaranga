@@ -1,6 +1,6 @@
 👋 Hi, I’m Isgav Saranga (@isaranga), nice to meet you!
 
-I’m a programmer, currently studying for a Bachelor's degree (B.Sc.) in Computer Science at the Open University of Israel.
+I’m a software developer, currently studying for a Bachelor's degree (B.Sc.) in Computer Science at the Open University of Israel.
 I’m interested in Data Science, machine learning etc.
 
 <!---
